@@ -1,0 +1,4 @@
+testcert*.conf
+test*.pem
+test*.crt
+test*.key
